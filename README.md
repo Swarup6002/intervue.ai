@@ -27,7 +27,7 @@
 
   <br />
   <br />
-
+<div align="left">
 
 </div>
 
@@ -163,6 +163,7 @@ If you have any questions or suggestions, feel free to reach out to us at:
 <div align="center">
   <sub>Built with ❤️ by the Intervue.ai Team</sub>
 </div>
+
 
 
 
