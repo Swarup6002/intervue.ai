@@ -1,18 +1,4 @@
 # 🚀 Intervue.ai
-
-<div align="center">
-
-<img width="1915" height="875" alt="Screenshot 2026-01-13 031311" src="https://github.com/user-attachments/assets/8468fd69-5559-4a89-b75a-380c449bf835" />
-
-<img width="1919" height="879" alt="Screenshot 2026-01-13 031429" src="https://github.com/user-attachments/assets/b10c6b25-0034-49b5-86a9-d133602b16f7" />
-
-<img width="1919" height="898" alt="Screenshot 2026-01-13 031518" src="https://github.com/user-attachments/assets/936743fc-b879-4716-84be-3699c1f48b66" />
-
-
-
-  <br />
-  <br />
-
   **The world's most advanced AI interviewer. Real-time voice feedback, code analysis, and behavioral coaching.**
 
   <br />
@@ -21,6 +7,24 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   [**🔴 Live Demo**](https://intervueainewtest.vercel.app) | [**🐛 Report Bug**](https://github.com/Swarup6002/Intervue.ai.newtest/issues) | [**✨ Request Feature**](https://github.com/Swarup6002/Intervue.ai.newtest/issues)
+  <br />
+
+<div align="center">
+
+**Home Page**
+<img width="1915" height="875" alt="Screenshot 2026-01-13 031311" src="https://github.com/user-attachments/assets/8468fd69-5559-4a89-b75a-380c449bf835" />
+<br />
+**Test Window**
+<img width="1919" height="879" alt="Screenshot 2026-01-13 031429" src="https://github.com/user-attachments/assets/b10c6b25-0034-49b5-86a9-d133602b16f7" />
+<br />
+**Mission**
+<img width="1919" height="898" alt="Screenshot 2026-01-13 031518" src="https://github.com/user-attachments/assets/936743fc-b879-4716-84be-3699c1f48b66" />
+
+
+
+  <br />
+  <br />
+
 
 </div>
 
@@ -156,3 +160,4 @@ If you have any questions or suggestions, feel free to reach out to us at:
 <div align="center">
   <sub>Built with ❤️ by the Intervue.ai Team</sub>
 </div>
+
